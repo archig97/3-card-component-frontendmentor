@@ -1,0 +1,56 @@
+
+
+
+
+.container{
+
+    border-radius: 10px;
+    margin-top: 60px;
+    
+}
+
+h3{
+    color: white;
+}
+
+#sedan{
+    background-color: rgb(255, 196, 0);
+    padding: 30px;
+    
+    height: 450px;
+    color: white;
+    justify-content: left;
+}
+
+#suv{
+    background-color: rgb(31, 124, 115);
+    padding: 30px;
+    justify-content: left;
+    height: 450px;
+    color: white;
+}
+
+#luxury{
+    background-color: rgb(11, 71, 65);
+    padding: 30px;
+    color: white;
+    justify-content: left;
+    height: 450px;
+}
+
+.btn{
+    border-radius: 20px;
+    width: 120px;
+}
+
+.sedan-car{
+    color: rgb(255, 196, 0);
+}
+
+.suv-car{
+    color: rgb(31, 124, 115);
+}
+
+.luxury-car{
+    color: rgb(11, 71, 65);
+}
